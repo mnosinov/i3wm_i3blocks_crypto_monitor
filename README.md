@@ -1,0 +1,1 @@
+# i3wm_i3blocks_crypto_monitor
