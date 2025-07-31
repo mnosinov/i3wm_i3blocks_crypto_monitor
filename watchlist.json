@@ -1,0 +1,42 @@
+{
+	"COIN1": {
+		"coin": "BTC",
+		"high_stop": 118919,
+		"low_stop": 117000
+	},
+	"COIN2": {
+		"coin": "ETH",
+		"high_stop": 3885,
+		"low_stop": 3773.0
+	},
+	"COIN3": {
+		"coin": "SOL",
+		"high_stop": 184,
+		"low_stop": 177
+	},
+	"COIN4": {
+		"coin": "",
+		"high_stop": 35.37,
+		"low_stop": 30.15
+	},
+	"COIN5": {
+		"coin": "",
+		"high_stop": 608,
+		"low_stop": 554
+	},
+	"COIN6": {
+		"coin": "",
+		"high_stop": 0.00001324,
+		"low_stop": 0.00001075
+	},
+	"COIN7": {
+		"coin": "",
+		"high_stop": 5.875,
+		"low_stop": 5.846
+	},
+	"COIN8": {
+		"coin": "",
+		"high_stop": 0.00001306,
+		"low_stop": 0.000010
+	}
+}
